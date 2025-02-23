@@ -1,5 +1,6 @@
       .-------------------------------------------------.
-      |  >>> Curso Introductorio de Python 🐍         |
+      |  >>> Laboratorios del Curso                     |
+      |       Introductorio de Python 🐍      <<<       |
       |-------------------------------------------------|
       |  print("¡Hola, Python!")                        |
       |                                                 |
@@ -13,7 +14,7 @@
       |                                                 |
       |  # Función                                      |
       |  def saludo():                                  |
-      |      return "¡Bienvenido al curso!"            |
+      |      return "¡Bienvenido al curso!"             |
       |                                                 |
       '-------------------------------------------------'
          \        (__)
